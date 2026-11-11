@@ -1,0 +1,19 @@
+{
+  "mode": "blur",
+  "grace_seconds": 0.25,
+  "restore_seconds": 0.2,
+  "sensitivity": 1.0,
+  "camera_index": 0,
+  "baseline_yaw": -0.061265476047992706,
+  "baseline_pitch": 0.576060950756073,
+  "calibrated": true,
+  "lock_enabled": true,
+  "lock_after_seconds": 60,
+  "intruder_enabled": true,
+  "intruder_min_size": 0.35,
+  "media_enabled": true,
+  "pause_in_calls": true,
+  "pause_fullscreen": true,
+  "break_enabled": true,
+  "break_minutes": 20
+}
